@@ -1,0 +1,9 @@
+{
+  "exclude": [
+    "node_modules",
+    ".internal"
+  ],
+  "reporter": ["text", "lcov"],
+  "all": true,
+  "extension": [".js"]
+}
