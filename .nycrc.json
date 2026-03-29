@@ -1,10 +1,9 @@
 {
-  "all": true,
-  "extension": [".js"],
   "exclude": [
     "node_modules",
-    "test",
-    "src/.internal"
+    ".internal"
   ],
-  "reporter": ["text", "lcov"]
+  "reporter": ["text", "lcov"],
+  "all": true,
+  "extension": [".js"]
 }
