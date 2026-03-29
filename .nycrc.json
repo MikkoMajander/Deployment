@@ -4,7 +4,7 @@
   "exclude": [
     "node_modules",
     "test",
-    "src/.internal"
+    ".internal"
   ],
   "reporter": ["text", "lcov"]
 }
